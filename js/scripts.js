@@ -18,4 +18,8 @@ $(document).ready(function() {
     $("body").removeClass();
     $("body").addClass("default-background");
   });
+  $("#box-highlight").click(function() {
+    $("#highlight").addClass("highlight-box");
+    $("#box-highlight").addClass("make-box");
+  });
 });

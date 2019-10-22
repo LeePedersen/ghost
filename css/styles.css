@@ -45,3 +45,12 @@ img {
 .default-background {
   background-color: none;
 }
+
+.highlight-box {
+  background-color: yellow;
+}
+
+.make-box {
+  color: blue;
+  border: 5px solid black;
+}
